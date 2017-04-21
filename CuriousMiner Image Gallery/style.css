@@ -1,0 +1,29 @@
+body {
+	padding-top: 70px;
+}
+
+.curious-miner {
+	font-family: 'Pacifico', cursive;
+	margin-left: 10px;
+}
+
+.jumbotron {
+  color: #2c3e50;
+  background: #ecf0f1;
+}
+
+.navbar-inverse {
+  background: #2c3e50;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+  color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+} 
+
